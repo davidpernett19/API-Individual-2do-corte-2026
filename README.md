@@ -1,1 +1,0 @@
-# API-Individual-2do-corte-2026
