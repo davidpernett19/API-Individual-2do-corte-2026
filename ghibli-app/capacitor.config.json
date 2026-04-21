@@ -1,0 +1,5 @@
+{
+  "appId": "com.ghibli.app",
+  "appName": "GhibliApp",
+  "webDir": "dist"
+}
